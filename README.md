@@ -1,4 +1,4 @@
-# Pi-controllers-for-a-cascade-control-motor-drive
+# Pi(Proportinal integrator ) controllers for a cascade control motor drive
 Main parts:
 
 1.Modeling of Converters and DC motor
